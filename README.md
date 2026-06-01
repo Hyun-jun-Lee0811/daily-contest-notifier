@@ -49,4 +49,4 @@ mvn exec:java -Dexec.mainClass="EventScraper"
 코드를 GitHub 레포지토리에 push하면 설정된 Workflow에 따라 자동으로 스크래핑이 실행되고 index.html이 갱신되어 웹사이트에 반영됩니다.
 
 결과 확인
-웹 대시보드: https://hyun-jun-lee0811.github.io/DailyContest-Notifier/
+웹 대시보드: https://hyun-jun-lee0811.github.io/daily-contest-notifier/
