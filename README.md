@@ -14,7 +14,7 @@
 
 ---
 
-## ⚙️ 기술 스택
+## 기술 스택
 
 - **Language**: Java 17
 - **Library**: JSoup (HTML 파싱)
